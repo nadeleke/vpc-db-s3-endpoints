@@ -1,2 +1,1 @@
-# naats
-Dynamo DB sample within private VPC
+# Cloud formation templates for VPC, DB and Endpoints
